@@ -4,7 +4,7 @@
     "homepage": "https://github.com/yuru7/udev-gothic",
     "license": "OFL-1.1",
     "url": "https://github.com/yuru7/udev-gothic/releases/download/v1.1.0/UDEVGothic_NF_v1.1.0.zip",
-    "hash": "1hrac6asm7rppm4nslfcr9vx53xhhyanqknqzcixf2zy19ggizr9",
+    "hash": "13763a5d7d0cf2a025740b910820933af745a1734baf730c910fad82ffa85178",
     "installer": {
         "script": [
             "$currentBuildNumber = [int] (Get-ItemProperty \"HKLM:\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\").CurrentBuildNumber",
